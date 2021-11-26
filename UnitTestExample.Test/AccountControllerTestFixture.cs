@@ -21,12 +21,4 @@ public class AccountControllerTestFixture
         // Assert
         Assert.AreEqual(expectedResult, actualResult);
     }
-    public bool ValidatePassword(string password)
-    {
-        var LowerCase = new Regex(@"[a-z]+");
-        var UpperCase = new Regex(@"[A-Z]+");
-        var Number = new Regex(@"[0-9]+");
-        var EightLong = new Regex(@".{8,}+");
-        return LowerCase.IsMatch(password) && UpperCase.IsMatch(password) && Number.IsMatch(password) && EightLong.IsMatch(password);
-    }
 }
