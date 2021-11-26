@@ -21,4 +21,23 @@ public class AccountControllerTestFixture
         // Assert
         Assert.AreEqual(expectedResult, actualResult);
     }
+    [
+        Test,
+        TestCase("ABCDQwew", false),
+        TestCase("QWF32QSA", false),
+        TestCase("asdwq32a", false),
+        TestCase("wAd1q", false),
+        TestCase("Aqwe1234", true)
+    ]
+    public void TestValidatePassword(string password, bool expectedResult)
+    {
+        // Arrange
+        var accountController = new AccountController();
+
+        // Act
+        var actualResult = accountController.ValidatePassword(password);
+
+        // Assert
+        Assert.AreEqual(expectedResult, actualResult);
+    }
 }
