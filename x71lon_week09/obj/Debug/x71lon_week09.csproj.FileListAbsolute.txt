@@ -1,0 +1,10 @@
+C:\Users\DavidLazar\source\repos\x71lon_week09\bin\Debug\x71lon_week09.exe.config
+C:\Users\DavidLazar\source\repos\x71lon_week09\bin\Debug\x71lon_week09.exe
+C:\Users\DavidLazar\source\repos\x71lon_week09\bin\Debug\x71lon_week09.pdb
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.csproj.AssemblyReference.cache
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.Form1.resources
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.Properties.Resources.resources
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.csproj.GenerateResource.cache
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.csproj.CoreCompileInputs.cache
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.exe
+C:\Users\DavidLazar\source\repos\x71lon_week09\obj\Debug\x71lon_week09.pdb
