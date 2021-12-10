@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\bin\Debug\x71lon_week10.exe.config
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\bin\Debug\x71lon_week10.exe
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\bin\Debug\x71lon_week10.pdb
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.csproj.AssemblyReference.cache
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.Properties.Resources.resources
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.csproj.GenerateResource.cache
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.exe
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.pdb
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\bin\Debug\libs\WorldsHardestGame.dll
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\bin\Debug\WorldsHardestGame.dll
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.csproj.CopyComplete
+C:\Users\lazar\source\repos\x71lon_week10\x71lon_week10\obj\Debug\x71lon_week10.Form1.resources
